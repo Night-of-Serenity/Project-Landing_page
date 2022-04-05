@@ -1,6 +1,6 @@
 # Project-Landing_page
 
-This is exercise project for practice lay out webpage from [https://www.theodinproject.com/lessons/foundations-landing-page] 
+This is exercise project for practice lay out webpage from [https://www.theodinproject.com/lessons/foundations-landing-page] You can visit this webpage online on [https://nightz2code.github.io/Project-Landing_page/]
 
 ### Reference for images used in this webpage
 - Mixed fruits picture by Trang Doan
