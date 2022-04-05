@@ -79,11 +79,10 @@ header a {
 }
 
 .top-left * {
-    padding: 0;
     margin: 0.5rem 0;
 }
 
-.top-left button {
+button {
     background-color: #3883f6;
     color: #f9faf8;
     padding: 0.5rem 2rem;
@@ -149,5 +148,6 @@ header a {
     margin: 0;
     align-self: flex-end;
 }
+
 
 
