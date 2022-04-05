@@ -149,5 +149,42 @@ button {
     align-self: flex-end;
 }
 
+.bottom {
+    display: flex;
+    flex-direction: column;
+    padding: 5rem 8rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-container {
+    background-color: #3883f6;
+    border-radius: 10px;
+    margin: 0;
+    padding: 2rem 5rem;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+}
+
+.bottom-text p {
+    font-size: 18px;
+    color : #e5e7eb;
+    padding: 0;
+    margin-top: 2px;
+}
+
+.bottom-text h4 {
+    font-size: 20px;
+    font-weight: bolder;
+    color:#f9faf8;
+    padding: 0;
+    margin: 0;
+}
+
+.bottom button {
+    border-style: solid;
+    border-color: white;
+}
 
 
