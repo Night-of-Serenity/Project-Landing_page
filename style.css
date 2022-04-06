@@ -111,8 +111,8 @@ button {
 
 .container img {
     width: 100%;
-    border: #3883f6 solid 5px;
-    border-radius: 10px;
+    border: #e5e7eb solid 0.5rem;
+    border-radius: 20px;
     height: 100%;
 }
 
