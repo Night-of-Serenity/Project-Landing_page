@@ -113,6 +113,7 @@ button {
     width: 100%;
     border: #3883f6 solid 5px;
     border-radius: 10px;
+    height: 100%;
 }
 
 .item {
